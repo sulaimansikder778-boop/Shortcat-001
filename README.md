@@ -26,5 +26,8 @@
 *  
 *  ctrl + y : paste the last deleted text.
 *  
+*  ctrl + arrow : one word jump
+* 
+
 
 *  
